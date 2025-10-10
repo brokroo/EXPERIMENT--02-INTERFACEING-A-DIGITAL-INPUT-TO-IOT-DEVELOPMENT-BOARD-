@@ -318,12 +318,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  ### OFF STATE
 
- 
- 
+
+ ![on state](https://github.com/user-attachments/assets/a5116f61-f35a-45ea-a625-7c90cc0836a2)
+
 
 
  ### ON STATE
- 
+  ![off state](https://github.com/user-attachments/assets/2c35ab42-f375-499d-89ee-a7e91b5e75de)
+
 
 
  
